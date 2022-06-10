@@ -38,7 +38,7 @@
 
 ### BIO
 
-Olá, sou o Cristiano Aro, tenho 25 anos, sou formado em Engenharia Civil pela Faculdade Mario Schenberg (Faculdade Lusófona de São Paulo), atualmente concluindo a especialização em Lean Six Sigma na Facens. Além disso, sou aluno do JStack, Rocketseat Ignite e FullCycle/School of Net.
+Olá, sou o Cristiano Aro, tenho 26 anos, sou formado em Engenharia Civil pela Faculdade Mario Schenberg (Faculdade Lusófona de São Paulo). Além disso, sou aluno do JStack, Rocketseat Ignite e FullCycle/School of Net.
 
 Atualmente trabalho na Viação Cometa (Grupo JCA) na área comercial, além de realizar alguns projetos freelancers, principalmente na área de Excel VBA, Google Sheets e iniciando trabalhos em Sites, Aplicativos Mobile e WEB (React Native, React, NodeJS)
 
